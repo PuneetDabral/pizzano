@@ -10,12 +10,6 @@
   z-index: 999;
 }
 
-.logo{
-  width:"160px" ;
-  height:"100px";
-  font-weight: bold;
-  color: white;
-}
 .item {
   flex: 1;
   display: flex;
@@ -64,6 +58,7 @@
 .listItem {
   margin: 20px;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .cart{
